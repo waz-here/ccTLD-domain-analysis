@@ -339,7 +339,6 @@ Examples include:
 | Cloudflare          | AS13335 |
 | Google              | AS15169 |
 | Amazon Web Services | AS16509 |
-| APNIC               | AS237   |
 
 Autonomous Systems exchange routing information using the Border Gateway Protocol (BGP).
 
