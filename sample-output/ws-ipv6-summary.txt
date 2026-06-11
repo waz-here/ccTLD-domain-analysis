@@ -1,0 +1,12 @@
+IPv6 Summary
+============
+
+Input file: ws-resolved.csv
+
+Domains analysed: 455
+Domains with IPv4: 455
+Domains with IPv6: 185
+IPv6 adoption rate: 40.66%
+
+IPv4 records observed: 627
+IPv6 records observed: 296
