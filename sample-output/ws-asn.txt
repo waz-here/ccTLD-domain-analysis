@@ -1,0 +1,586 @@
+Bulk mode; whois.cymru.com [2026-06-11 05:18:09 +0000]
+133618  | 103.224.182.208  | 103.224.182.0/23    | AU | apnic    | 2014-01-24 | TRELLIAN-AS-AP - Trellian Pty. Limited, AU
+133618  | 103.224.182.251  | 103.224.182.0/23    | AU | apnic    | 2014-01-24 | TRELLIAN-AS-AP - Trellian Pty. Limited, AU
+56153   | 103.255.236.124  | 103.255.236.0/24    | VN | apnic    | 2014-01-07 | LUUTRUSO-AS-VN - Digital Storage Company Limited, VN
+13335   | 104.18.39.18     | 104.18.39.0/24      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.18.6.85      | 104.18.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.18.7.85      | 104.18.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.20.20.20     | 104.20.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.20.36.157    | 104.20.32.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.0.172     | 104.21.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.0.192     | 104.21.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.12.207    | 104.21.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.13.129    | 104.21.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.14.157    | 104.21.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.14.198    | 104.21.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.14.73     | 104.21.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.15.14     | 104.21.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.18.207    | 104.21.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.20.151    | 104.21.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.20.223    | 104.21.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.20.68     | 104.21.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.22.50     | 104.21.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.22.82     | 104.21.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.24.143    | 104.21.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.24.29     | 104.21.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.26.13     | 104.21.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.26.67     | 104.21.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.30.175    | 104.21.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.31.118    | 104.21.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.33.180    | 104.21.32.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.35.49     | 104.21.32.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.36.130    | 104.21.32.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.37.144    | 104.21.32.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.38.235    | 104.21.32.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.39.132    | 104.21.32.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.40.19     | 104.21.32.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.40.203    | 104.21.32.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.41.195    | 104.21.32.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.41.202    | 104.21.32.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.4.142     | 104.21.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.42.116    | 104.21.32.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.43.99     | 104.21.32.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.45.7      | 104.21.32.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.51.111    | 104.21.48.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.51.152    | 104.21.48.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.51.205    | 104.21.48.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.52.112    | 104.21.48.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.52.128    | 104.21.48.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.52.93     | 104.21.48.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.56.222    | 104.21.48.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.57.213    | 104.21.48.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.58.179    | 104.21.48.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.61.90     | 104.21.48.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.6.30      | 104.21.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.63.80     | 104.21.48.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.64.35     | 104.21.64.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.68.124    | 104.21.64.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.69.48     | 104.21.64.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.70.21     | 104.21.64.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.7.166     | 104.21.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.72.155    | 104.21.64.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.76.47     | 104.21.64.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.77.108    | 104.21.64.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.77.239    | 104.21.64.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.77.75     | 104.21.64.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.78.132    | 104.21.64.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.80.220    | 104.21.80.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.80.227    | 104.21.80.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.81.15     | 104.21.80.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.87.226    | 104.21.80.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.90.237    | 104.21.80.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.90.7      | 104.21.80.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.91.95     | 104.21.80.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.92.88     | 104.21.80.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.93.212    | 104.21.80.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.93.79     | 104.21.80.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.94.207    | 104.21.80.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.95.136    | 104.21.80.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.21.96.129    | 104.21.96.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+206834  | 104.247.81.99    | 104.247.80.0/22     | CA | arin     | 2016-09-29 | TEAMINTERNET-CA-AS - Team Internet AG, DE
+14061   | 104.248.118.35   | 104.248.112.0/20    | US | arin     | 2018-08-06 | DIGITALOCEAN-ASN - DigitalOcean, LLC, US
+13335   | 104.26.0.145     | 104.26.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.26.0.213     | 104.26.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.26.1.145     | 104.26.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.26.12.121    | 104.26.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.26.1.213     | 104.26.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.26.12.202    | 104.26.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.26.12.31     | 104.26.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.26.13.121    | 104.26.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.26.13.202    | 104.26.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.26.13.31     | 104.26.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.26.14.224    | 104.26.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.26.15.224    | 104.26.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.26.2.209     | 104.26.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.26.2.54      | 104.26.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.26.2.87      | 104.26.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.26.3.209     | 104.26.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.26.3.54      | 104.26.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.26.3.87      | 104.26.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.26.4.106     | 104.26.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.26.4.87      | 104.26.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.26.5.106     | 104.26.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.26.5.87      | 104.26.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.26.6.14      | 104.26.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.26.7.14      | 104.26.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.26.8.68      | 104.26.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 104.26.9.68      | 104.26.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - Cloudflare, Inc., US
+133159  | 112.213.32.83    | 112.213.32.0/21     | AU | apnic    | 2009-02-18 | MAMMOTHMEDIA-AS-AP - Mammoth Media Pty Ltd, AU
+24940   | 116.202.26.4     | 116.202.0.0/16      | DE | ripencc  | 2011-01-17 | HETZNER-AS - Hetzner Online GmbH, DE
+38195   | 116.255.5.183    | 116.255.0.0/18      | AU | apnic    | 2007-04-04 | SUPERLOOP-AS-AP - Superloop, AU
+25648   | 12.161.104.5     | 12.161.104.0/21     | US | arin     | 1983-08-23 | PARALLAXSYSTEMS - Parallax Systems, US
+31898   | 129.158.211.145  | 129.158.192.0/18    | US | arin     | 1991-08-21 | ORACLE-BMC-31898 - Oracle Corporation, US
+31898   | 130.61.69.238    | 130.61.64.0/21      | US | arin     | 2016-10-31 | ORACLE-BMC-31898 - Oracle Corporation, US
+31898   | 132.226.118.109  | 132.226.64.0/18     | US | arin     | 2017-04-03 | ORACLE-BMC-31898 - Oracle Corporation, US
+16509   | 13.237.108.188   | 13.236.0.0/14       | US | arin     | 2019-10-01 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 13.248.169.48    | 13.248.160.0/20     | US | arin     | 2018-07-11 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 13.248.243.5     | 13.248.240.0/20     | US | arin     | 2018-07-11 | AMAZON-02 - Amazon.com, Inc., US
+24940   | 136.243.144.78   | 136.243.0.0/16      | DE | ripencc  | 2004-04-14 | HETZNER-AS - Hetzner Online GmbH, DE
+63949   | 139.162.11.178   | 139.162.0.0/19      | NL | ripencc  | 1990-03-24 | AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+15169   | 142.250.207.3    | 142.250.207.0/24    | US | arin     | 2012-05-24 | GOOGLE - Google LLC, US
+16276   | 142.44.188.61    | 142.44.128.0/17     | CA | arin     | 2017-06-21 | OVH - OVH SAS, FR
+35916   | 148.135.11.18    | 148.135.0.0/17      | US | ripencc  | 1993-09-01 | MULTA-ASN1 - MULTACOM CORPORATION, US
+20473   | 149.28.55.230    | 149.28.32.0/19      | US | arin     | 2018-05-04 | AS-VULTR - The Constant Company, LLC, US
+54113   | 151.101.131.7    | 151.101.128.0/22    | US | arin     | 2016-02-01 | FASTLY - Fastly, Inc., US
+54113   | 151.101.195.7    | 151.101.192.0/22    | US | arin     | 2016-02-01 | FASTLY - Fastly, Inc., US
+54113   | 151.101.3.7      | 151.101.0.0/22      | US | arin     | 2016-02-01 | FASTLY - Fastly, Inc., US
+54113   | 151.101.67.7     | 151.101.64.0/22     | US | arin     | 2016-02-01 | FASTLY - Fastly, Inc., US
+16509   | 15.197.148.33    | 15.197.144.0/20     | US | arin     | 2021-01-28 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 15.197.240.20    | 15.197.240.0/20     | US | arin     | 2021-01-28 | AMAZON-02 - Amazon.com, Inc., US
+24940   | 157.90.131.201   | 157.90.0.0/16       | DE | ripencc  | 1996-12-16 | HETZNER-AS - Hetzner Online GmbH, DE
+24940   | 157.90.33.73     | 157.90.0.0/16       | DE | ripencc  | 1996-12-16 | HETZNER-AS - Hetzner Online GmbH, DE
+24940   | 157.90.33.74     | 157.90.0.0/16       | DE | ripencc  | 1996-12-16 | HETZNER-AS - Hetzner Online GmbH, DE
+24940   | 157.90.65.99     | 157.90.0.0/16       | DE | ripencc  | 1996-12-16 | HETZNER-AS - Hetzner Online GmbH, DE
+7459    | 161.58.94.25     | 161.58.80.0/20      | US | arin     | 1992-06-01 | GRANDECOM-AS1 - Grande Communications Networks, LLC, US
+13335   | 162.159.140.98   | 162.159.128.0/19    | US | arin     | 2013-05-23 | CLOUDFLARENET - Cloudflare, Inc., US
+16276   | 162.19.86.186    | 162.19.0.0/17       | FR | ripencc  | 1992-07-09 | OVH - OVH SAS, FR
+22612   | 162.255.119.89   | 162.255.119.0/24    | US | arin     | 2014-05-14 | NAMECHEAP-NET - Namecheap, Inc., US
+14061   | 165.232.98.167   | 165.232.96.0/20     | US | arin     | 2019-12-27 | DIGITALOCEAN-ASN - DigitalOcean, LLC, US
+36351   | 169.47.130.72    | 169.47.128.0/18     | US | ripencc  | 1993-09-01 | SOFTLAYER - IBM Cloud, US
+63410   | 170.249.215.130  | 170.249.208.0/20    | US | arin     | 2015-11-03 | PRIVATESYSTEMS - PrivateSystems Networks, US
+63949   | 172.105.0.11     | 172.105.0.0/19      | US | arin     | 2015-06-19 | AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+63949   | 172.105.200.187  | 172.105.192.0/19    | US | arin     | 2015-06-19 | AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+63949   | 172.234.218.95   | 172.234.192.0/19    | US | arin     | 2013-03-15 | AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+63949   | 172.234.24.152   | 172.234.16.0/20     | US | arin     | 2013-03-15 | AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+63949   | 172.234.24.173   | 172.234.16.0/20     | US | arin     | 2013-03-15 | AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+63949   | 172.234.24.211   | 172.234.16.0/20     | US | arin     | 2013-03-15 | AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+63949   | 172.236.108.16   | 172.236.96.0/19     | US | arin     | 2013-03-15 | AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+63949   | 172.236.116.61   | 172.236.96.0/19     | US | arin     | 2013-03-15 | AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+63949   | 172.237.146.18   | 172.237.128.0/19    | US | arin     | 2013-03-15 | AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+63949   | 172.237.146.39   | 172.237.128.0/19    | US | arin     | 2013-03-15 | AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+63949   | 172.237.146.46   | 172.237.128.0/19    | US | arin     | 2013-03-15 | AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+63949   | 172.237.159.40   | 172.237.128.0/19    | US | arin     | 2013-03-15 | AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+63949   | 172.238.172.130  | 172.238.160.0/19    | US | arin     | 2013-03-15 | AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+63949   | 172.239.193.153  | 172.239.192.0/19    | US | arin     | 2013-03-15 | AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+63949   | 172.239.194.103  | 172.239.192.0/19    | US | arin     | 2013-03-15 | AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+63949   | 172.239.57.117   | 172.239.32.0/19     | US | arin     | 2013-03-15 | AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+395954  | 172.241.213.96   | 172.241.212.0/22    | US | arin     | 2013-04-08 | LEASEWEB-USA-LAX - Leaseweb USA, Inc., US
+13335   | 172.64.148.238   | 172.64.148.0/24     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.66.0.96      | 172.66.0.0/22       | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.66.156.189   | 172.66.144.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.66.163.254   | 172.66.160.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.66.40.187    | 172.66.40.0/21      | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.66.43.69     | 172.66.40.0/21      | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.128.36    | 172.67.128.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.128.56    | 172.67.128.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.132.103   | 172.67.128.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.135.151   | 172.67.128.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.135.33    | 172.67.128.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.137.123   | 172.67.128.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.140.12    | 172.67.128.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.140.199   | 172.67.128.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.144.254   | 172.67.144.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.144.55    | 172.67.144.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.145.207   | 172.67.144.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.147.47    | 172.67.144.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.152.114   | 172.67.144.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.154.136   | 172.67.144.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.154.156   | 172.67.144.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.154.32    | 172.67.144.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.156.33    | 172.67.144.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.157.6     | 172.67.144.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.158.44    | 172.67.144.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.160.78    | 172.67.160.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.161.169   | 172.67.160.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.161.2     | 172.67.160.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.162.105   | 172.67.160.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.162.175   | 172.67.160.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.166.213   | 172.67.160.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.167.126   | 172.67.160.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.167.35    | 172.67.160.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.167.8     | 172.67.160.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.173.123   | 172.67.160.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.174.131   | 172.67.160.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.175.231   | 172.67.160.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.176.125   | 172.67.176.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.178.3     | 172.67.176.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.179.128   | 172.67.176.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.180.250   | 172.67.176.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.182.21    | 172.67.176.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.183.89    | 172.67.176.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.185.225   | 172.67.176.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.187.175   | 172.67.176.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.187.237   | 172.67.176.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.187.73    | 172.67.176.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.190.220   | 172.67.176.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.191.218   | 172.67.176.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.191.59    | 172.67.176.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.193.39    | 172.67.192.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.194.181   | 172.67.192.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.194.96    | 172.67.192.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.195.89    | 172.67.192.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.197.145   | 172.67.192.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.198.53    | 172.67.192.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.199.135   | 172.67.192.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.200.14    | 172.67.192.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.202.241   | 172.67.192.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.203.121   | 172.67.192.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.203.206   | 172.67.192.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.204.89    | 172.67.192.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.205.97    | 172.67.192.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.207.252   | 172.67.192.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.207.45    | 172.67.192.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.207.68    | 172.67.192.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.207.77    | 172.67.192.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.209.108   | 172.67.208.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.213.231   | 172.67.208.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.213.5     | 172.67.208.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.214.201   | 172.67.208.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.214.235   | 172.67.208.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.216.127   | 172.67.208.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.217.240   | 172.67.208.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.219.61    | 172.67.208.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.222.28    | 172.67.208.0/20     | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.68.152    | 172.67.64.0/20      | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.68.63     | 172.67.64.0/20      | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.69.59     | 172.67.64.0/20      | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.71.212    | 172.67.64.0/20      | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.71.88     | 172.67.64.0/20      | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.72.152    | 172.67.64.0/20      | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.72.85     | 172.67.64.0/20      | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.73.203    | 172.67.64.0/20      | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.73.7      | 172.67.64.0/20      | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.74.123    | 172.67.64.0/20      | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.74.169    | 172.67.64.0/20      | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.74.246    | 172.67.64.0/20      | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 172.67.75.172    | 172.67.64.0/20      | US | arin     | 2015-02-25 | CLOUDFLARENET - Cloudflare, Inc., US
+399647  | 172.98.56.108    | 172.98.56.0/24      | US | arin     | 2021-07-09 | RUMBLE - Rumble USA Inc., US
+213230  | 178.156.173.118  | 178.156.173.0/24    | DE | ripencc  | 2010-06-02 | HETZNER-CLOUD2-AS - Hetzner Online GmbH, DE
+63949   | 178.79.138.171   | 178.79.128.0/18     | US | ripencc  | 2010-05-10 | AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+51852   | 179.43.141.93    | 179.43.141.0/24     | PA | lacnic   | 2013-11-12 | PLI-AS - Private Layer INC, PA
+16509   | 18.134.234.240   | 18.132.0.0/14       | US | arin     | 2019-10-07 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 184.33.2.245     | 184.32.0.0/14       | US | arin     | 2018-09-18 | AMAZON-02 - Amazon.com, Inc., US
+14618   | 184.73.156.246   | 184.73.0.0/16       | US | arin     | 2010-01-26 | AMAZON-AES - Amazon.com, Inc., US
+49505   | 185.137.235.191  | 185.137.235.0/24    | RU | ripencc  | 2016-02-08 | SELECTEL - JSC Selectel, RU
+49505   | 185.137.235.222  | 185.137.235.0/24    | RU | ripencc  | 2016-02-08 | SELECTEL - JSC Selectel, RU
+54113   | 185.199.108.153  | 185.199.108.0/24    | US | ripencc  | 2017-04-13 | FASTLY - Fastly, Inc., US
+54113   | 185.199.109.153  | 185.199.109.0/24    | US | ripencc  | 2017-04-13 | FASTLY - Fastly, Inc., US
+54113   | 185.199.110.153  | 185.199.110.0/24    | US | ripencc  | 2017-04-13 | FASTLY - Fastly, Inc., US
+54113   | 185.199.111.153  | 185.199.111.0/24    | US | ripencc  | 2017-04-13 | FASTLY - Fastly, Inc., US
+62240   | 185.245.83.148   | 185.245.83.0/24     | GB | ripencc  | 2018-02-07 | Clouvider - Clouvider Limited, GB
+62082   | 185.26.122.80    | 185.26.122.0/24     | RU | ripencc  | 2013-05-21 | HOSTLAND - Hostland LTD, RU
+27715   | 186.202.157.79   | 186.202.128.0/19    | BR | lacnic   | 2010-04-29 | AS27715 - Locaweb Servicos de Internet S/A, BR
+27715   | 186.202.19.203   | 186.202.19.0/24     | BR | lacnic   | 2010-04-29 | AS27715 - Locaweb Servicos de Internet S/A, BR
+204490  | 188.130.132.221  | 188.130.132.0/24    | CZ | ripencc  | 2009-03-31 | ASKONTEL - Kontel LLC, RU
+63949   | 192.155.84.236   | 192.155.80.0/21     | US | arin     | 2012-10-22 | AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+61173   | 193.141.65.167   | 193.141.65.0/24     | IR | ripencc  | 2019-10-11 | GWSN-AS - Green Web Samaneh Novin PJSC, IR
+211381  | 193.169.105.204  | 193.169.105.0/24    | NL | ripencc  | 2021-01-08 | PODAON - Podaon SIA, LV
+58329   | 193.242.210.19   | 193.242.210.0/23    | DE | ripencc  | 2012-06-27 | SERVINGA-NL - servinga GmbH, DE
+205282  | 194.48.203.15    | 194.48.203.0/24     | AE | ripencc  | 2023-05-03 | ie-tildapublishing-1 - TILDA PLATFORM CLOUD SERVICES CO. L.L.C, AE
+205282  | 194.48.203.16    | 194.48.203.0/24     | AE | ripencc  | 2023-05-03 | ie-tildapublishing-1 - TILDA PLATFORM CLOUD SERVICES CO. L.L.C, AE
+205282  | 194.48.203.17    | 194.48.203.0/24     | AE | ripencc  | 2023-05-03 | ie-tildapublishing-1 - TILDA PLATFORM CLOUD SERVICES CO. L.L.C, AE
+212709  | 194.51.187.52    | 194.51.187.0/24     | FR | ripencc  | 1995-10-19 | ACCOR-AS - ACCOR S.A., FR
+149020  | 194.5.98.26      | 194.5.98.0/24       | DE | ripencc  | 2018-07-23 | WEBHORIZON-AS-AP - WebHorizon Internet Services, SG
+24940   | 195.201.153.71   | 195.201.0.0/16      | DE | ripencc  | 1997-09-22 | HETZNER-AS - Hetzner Online GmbH, DE
+54113   | 199.36.158.100   | 199.36.158.0/24     | US | arin     | 2010-09-21 | FASTLY - Fastly, Inc., US
+16276   | 2001:41d0:700:5dda:acab::62              | 2001:41d0::/32      | FR | ripencc  | 2004-11-15 | OVH - OVH SAS, FR
+58329   | 2001:67c:2ae8:100:193:242:210:19         | 2001:67c:2ae8::/48  | DE | ripencc  | 2012-12-04 | SERVINGA-NL - servinga GmbH, DE
+NA      | 2001:db8:1000::fa                        | NA                  |    | other    |            | NA
+10733   | 200.201.216.234  | 200.201.192.0/18    | BR | lacnic   | 2001-03-19 | AS10733 - DC MATRIX INTERNET S/A, BR
+NA      | 203.0.113.250    | NA                  |    | other    |            | NA
+18371   | 203.7.8.100      | 203.7.0.0/19        | AU | apnic    | 2011-04-04 | NCABLE-AP - Neighbourhood Cable, AU
+24940   | 204.168.221.162  | 204.168.128.0/17    | DE | ripencc  | 1994-10-10 | HETZNER-AS - Hetzner Online GmbH, DE
+398101  | 208.109.200.57   | 208.109.200.0/22    | US | arin     | 2006-04-12 | GO-DADDY-COM-LLC - GoDaddy.com, LLC, US
+46475   | 208.115.249.234  | 208.115.249.0/24    | US | arin     | 2010-01-06 | LIMESTONENETWORKS - Limestone Networks, Inc., US
+46475   | 208.115.249.236  | 208.115.249.0/24    | US | arin     | 2010-01-06 | LIMESTONENETWORKS - Limestone Networks, Inc., US
+46475   | 208.115.249.237  | 208.115.249.0/24    | US | arin     | 2010-01-06 | LIMESTONENETWORKS - Limestone Networks, Inc., US
+43350   | 212.92.104.118   | 212.92.104.0/21     | NL | ripencc  | 1999-11-03 | NFORCE - NForce Entertainment B.V., NL
+204601  | 213.166.69.74    | 213.166.69.0/24     | NL | ripencc  | 2018-11-06 | PODAON - NovoServe B.V., NL
+11090   | 216.137.227.214  | 216.137.224.0/21    | US | arin     | 2008-03-25 | MTAONLINE-AS - Matanuska Telecom Association, Incorporated, US
+16509   | 216.150.1.1      | 216.150.1.0/24      | US | arin     | 2024-07-24 | AMAZON-02 - Amazon.com, Inc., US
+29169   | 217.70.184.1     | 217.70.184.0/24     | FR | ripencc  | 2003-07-31 | GANDI-AS - GANDI SAS, FR
+29169   | 217.70.185.130   | 217.70.176.0/20     | FR | ripencc  | 2003-07-31 | GANDI-AS - GANDI SAS, FR
+8560    | 217.76.128.34    | 217.76.128.0/19     | ES | ripencc  | 2000-11-28 | IONOS-AS - IONOS SE, DE
+NA      | 23.179.32.185    | NA                  | US | arin     | 2019-03-08 | NA
+63949   | 23.239.4.93      | 23.239.0.0/21       | US | arin     | 2013-10-23 | AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+20940   | 23.48.247.236    | 23.48.247.0/24      | US | arin     | 2011-05-16 | AKAMAI-ASN1 - Akamai International B.V., NL
+20940   | 23.48.247.242    | 23.48.247.0/24      | US | arin     | 2011-05-16 | AKAMAI-ASN1 - Akamai International B.V., NL
+15169   | 2404:6800:4006:801::2003                 | 2404:6800:4006::/48 | AU | apnic    | 2008-09-30 | GOOGLE - Google LLC, US
+16509   | 2406:da1c:cc9:3500::258                  | 2406:da1c:c00::/38  | US | apnic    | 2014-12-19 | AMAZON-02 - Amazon.com, Inc., US
+45102   | 240b:4001:278:8403:ffff:d664:78d8:51bd   | 240b:4001::/33      | SG | apnic    | 2018-10-15 | ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
+63949   | 2600:3c01::2000:3aff:feb3:2e94           | 2600:3c01::/32      | US | arin     | 2011-02-07 | AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+63949   | 2600:3c01::f03c:95ff:fe91:5de5           | 2600:3c01::/32      | US | arin     | 2011-02-07 | AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+63949   | 2600:3c01::f03c:95ff:feeb:5ed6           | 2600:3c01::/32      | US | arin     | 2011-02-07 | AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+63949   | 2600:3c04::f03c:92ff:febc:de93           | 2600:3c04::/32      | US | arin     | 2011-02-07 | AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+16509   | 2600:9000:2468:4000:2:daa:180:93a1       | 2600:9000:2468::/48 | US | arin     | 2015-04-22 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 2600:9000:2468:4800:2:daa:180:93a1       | 2600:9000:2468::/48 | US | arin     | 2015-04-22 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 2600:9000:2468:6000:2:daa:180:93a1       | 2600:9000:2468::/48 | US | arin     | 2015-04-22 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 2600:9000:2468:800:2:daa:180:93a1        | 2600:9000:2468::/48 | US | arin     | 2015-04-22 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 2600:9000:2468:8200:2:daa:180:93a1       | 2600:9000:2468::/48 | US | arin     | 2015-04-22 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 2600:9000:2468:a800:2:daa:180:93a1       | 2600:9000:2468::/48 | US | arin     | 2015-04-22 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 2600:9000:2468:b000:2:daa:180:93a1       | 2600:9000:2468::/48 | US | arin     | 2015-04-22 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 2600:9000:2468:f400:2:daa:180:93a1       | 2600:9000:2468::/48 | US | arin     | 2015-04-22 | AMAZON-02 - Amazon.com, Inc., US
+13335   | 2606:4700:10::6814:1414                  | 2606:4700:10::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:10::6814:249d                  | 2606:4700:10::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:10::ac42:9cbd                  | 2606:4700:10::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:10::ac42:a3fe                  | 2606:4700:10::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::681a:191                   | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::681a:236                   | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::681a:257                   | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::681a:2d1                   | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::681a:336                   | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::681a:357                   | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::681a:3d1                   | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::681a:457                   | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::681a:46a                   | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::681a:557                   | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::681a:56a                   | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::681a:844                   | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::681a:91                    | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::681a:944                   | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::681a:c1f                   | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::681a:c79                   | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::681a:cca                   | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::681a:d1f                   | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::681a:d79                   | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::681a:dca                   | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::681a:ee0                   | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::681a:fe0                   | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::ac43:443f                  | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::ac43:453b                  | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::ac43:4758                  | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::ac43:47d4                  | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::ac43:4855                  | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::ac43:4898                  | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::ac43:4907                  | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::ac43:4a7b                  | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::ac43:4aa9                  | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::ac43:4af6                  | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:20::ac43:4bac                  | 2606:4700:20::/44   | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3030::6815:181d                | 2606:4700:3030::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3030::6815:29c3                | 2606:4700:3030::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3030::6815:3470                | 2606:4700:3030::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3030::6815:4023                | 2606:4700:3030::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3030::6815:489b                | 2606:4700:3030::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3030::6815:5dd4                | 2606:4700:3030::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3030::6815:e49                 | 2606:4700:3030::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3030::ac43:8797                | 2606:4700:3030::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3030::ac43:897b                | 2606:4700:3030::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3030::ac43:90fe                | 2606:4700:3030::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3030::ac43:91cf                | 2606:4700:3030::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3030::ac43:a04e                | 2606:4700:3030::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3030::ac43:a1a9                | 2606:4700:3030::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3030::ac43:b4fa                | 2606:4700:3030::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3030::ac43:c2b5                | 2606:4700:3030::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3030::ac43:c591                | 2606:4700:3030::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3030::ac43:cf44                | 2606:4700:3030::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3030::ac43:d505                | 2606:4700:3030::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3031::6815:1a0d                | 2606:4700:3031::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3031::6815:1a43                | 2606:4700:3031::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3031::6815:1eaf                | 2606:4700:3031::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3031::6815:1f76                | 2606:4700:3031::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3031::6815:2784                | 2606:4700:3031::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3031::6815:39d5                | 2606:4700:3031::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3031::6815:3ab3                | 2606:4700:3031::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3031::6815:57e2                | 2606:4700:3031::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3031::6815:61e                 | 2606:4700:3031::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3031::6815:c0                  | 2606:4700:3031::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3031::6815:ec6                 | 2606:4700:3031::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3031::ac43:8467                | 2606:4700:3031::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3031::ac43:9a20                | 2606:4700:3031::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3031::ac43:a708                | 2606:4700:3031::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3031::ac43:ae83                | 2606:4700:3031::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3031::ac43:afe7                | 2606:4700:3031::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3031::ac43:c359                | 2606:4700:3031::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3031::ac43:c635                | 2606:4700:3031::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3031::ac43:cbce                | 2606:4700:3031::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3031::ac43:cd61                | 2606:4700:3031::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3031::ac43:d87f                | 2606:4700:3031::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3032::6815:1497                | 2606:4700:3032::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3032::6815:5ecf                | 2606:4700:3032::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3032::6815:d81                 | 2606:4700:3032::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3032::ac43:8024                | 2606:4700:3032::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3032::ac43:9c21                | 2606:4700:3032::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3032::ac43:ad7b                | 2606:4700:3032::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3032::ac43:db3d                | 2606:4700:3032::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3032::ac43:de1c                | 2606:4700:3032::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3033::6815:12cf                | 2606:4700:3033::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3033::6815:2482                | 2606:4700:3033::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3033::6815:336f                | 2606:4700:3033::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3033::6815:38de                | 2606:4700:3033::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3033::6815:447c                | 2606:4700:3033::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3033::6815:5aed                | 2606:4700:3033::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3033::6815:5c58                | 2606:4700:3033::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3033::6815:7a6                 | 2606:4700:3033::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3033::ac43:8038                | 2606:4700:3033::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3033::ac43:8721                | 2606:4700:3033::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3033::ac43:8c0c                | 2606:4700:3033::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3033::ac43:9a88                | 2606:4700:3033::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3033::ac43:9a9c                | 2606:4700:3033::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3033::ac43:b07d                | 2606:4700:3033::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3033::ac43:b203                | 2606:4700:3033::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3033::ac43:b615                | 2606:4700:3033::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3033::ac43:bedc                | 2606:4700:3033::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3033::ac43:caf1                | 2606:4700:3033::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3033::ac43:d6c9                | 2606:4700:3033::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3034::6815:1632                | 2606:4700:3034::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3034::6815:2590                | 2606:4700:3034::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3034::6815:2a74                | 2606:4700:3034::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3034::6815:2d07                | 2606:4700:3034::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3034::6815:3480                | 2606:4700:3034::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3034::6815:4c2f                | 2606:4700:3034::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3034::6815:50dc                | 2606:4700:3034::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3034::6815:50e3                | 2606:4700:3034::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3034::6815:5f88                | 2606:4700:3034::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3034::ac43:9d06                | 2606:4700:3034::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3034::ac43:a2af                | 2606:4700:3034::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3034::ac43:b759                | 2606:4700:3034::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3034::ac43:bfda                | 2606:4700:3034::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3034::ac43:c127                | 2606:4700:3034::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3034::ac43:cf2d                | 2606:4700:3034::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3034::ac43:d6eb                | 2606:4700:3034::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3035::6815:14df                | 2606:4700:3035::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3035::6815:1652                | 2606:4700:3035::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3035::6815:2331                | 2606:4700:3035::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3035::6815:28cb                | 2606:4700:3035::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3035::6815:345d                | 2606:4700:3035::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3035::6815:4615                | 2606:4700:3035::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3035::6815:4d4b                | 2606:4700:3035::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3035::6815:4d6c                | 2606:4700:3035::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3035::6815:4e84                | 2606:4700:3035::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3035::6815:5d4f                | 2606:4700:3035::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3035::6815:6081                | 2606:4700:3035::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3035::ac43:932f                | 2606:4700:3035::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3035::ac43:c787                | 2606:4700:3035::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3036::6815:1444                | 2606:4700:3036::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3036::6815:48e                 | 2606:4700:3036::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3036::6815:5b5f                | 2606:4700:3036::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3036::6815:ccf                 | 2606:4700:3036::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3036::6815:e9d                 | 2606:4700:3036::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3036::ac43:9872                | 2606:4700:3036::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3036::ac43:9e2c                | 2606:4700:3036::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3036::ac43:a269                | 2606:4700:3036::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3036::ac43:a77e                | 2606:4700:3036::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3036::ac43:b380                | 2606:4700:3036::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3036::ac43:b9e1                | 2606:4700:3036::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3036::ac43:bb49                | 2606:4700:3036::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3036::ac43:c80e                | 2606:4700:3036::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3036::ac43:cb79                | 2606:4700:3036::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3036::ac43:cf4d                | 2606:4700:3036::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3036::ac43:cffc                | 2606:4700:3036::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3036::ac43:d5e7                | 2606:4700:3036::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3036::ac43:d9f0                | 2606:4700:3036::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3037::6815:188f                | 2606:4700:3037::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3037::6815:2813                | 2606:4700:3037::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3037::6815:2b63                | 2606:4700:3037::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3037::6815:3398                | 2606:4700:3037::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3037::6815:33cd                | 2606:4700:3037::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3037::6815:3d5a                | 2606:4700:3037::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3037::6815:3f50                | 2606:4700:3037::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3037::6815:4530                | 2606:4700:3037::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3037::6815:4def                | 2606:4700:3037::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3037::6815:510f                | 2606:4700:3037::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3037::6815:5a07                | 2606:4700:3037::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3037::6815:ac                  | 2606:4700:3037::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3037::ac43:9037                | 2606:4700:3037::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3037::ac43:a6d5                | 2606:4700:3037::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3037::ac43:bbaf                | 2606:4700:3037::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3037::ac43:bbed                | 2606:4700:3037::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3037::ac43:c260                | 2606:4700:3037::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3037::ac43:cc59                | 2606:4700:3037::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:3037::ac43:d16c                | 2606:4700:3037::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:440b::6812:2712                | 2606:4700:440b::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700:440b::ac40:94ee                | 2606:4700:440b::/48 | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700::6812:655                      | 2606:4700::/44      | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+13335   | 2606:4700::6812:755                      | 2606:4700::/44      | US | arin     | 2011-11-01 | CLOUDFLARENET - Cloudflare, Inc., US
+54113   | 2606:50c0:8000::153                      | 2606:50c0:8000::/48 | US | arin     | 2021-05-19 | FASTLY - Fastly, Inc., US
+54113   | 2606:50c0:8001::153                      | 2606:50c0:8001::/48 | US | arin     | 2021-05-19 | FASTLY - Fastly, Inc., US
+54113   | 2606:50c0:8002::153                      | 2606:50c0:8002::/48 | US | arin     | 2021-05-19 | FASTLY - Fastly, Inc., US
+54113   | 2606:50c0:8003::153                      | 2606:50c0:8003::/48 | US | arin     | 2021-05-19 | FASTLY - Fastly, Inc., US
+21499   | 2a00:1169:103:5490::                     | 2a00:1169:100::/40  | DE | ripencc  | 2009-07-27 | GODADDY-SXB - Host Europe GmbH, DE
+24940   | 2a01:4f8:10b:1987::1                     | 2a01:4f8::/32       | DE | ripencc  | 2007-10-10 | HETZNER-AS - Hetzner Online GmbH, DE
+24940   | 2a01:4f8:13b:2390::2                     | 2a01:4f8::/32       | DE | ripencc  | 2007-10-10 | HETZNER-AS - Hetzner Online GmbH, DE
+24940   | 2a01:4f8:1c0c:4109::1                    | 2a01:4f8::/32       | DE | ripencc  | 2007-10-10 | HETZNER-AS - Hetzner Online GmbH, DE
+24940   | 2a01:4f8:1c17:4213::1                    | 2a01:4f8::/32       | DE | ripencc  | 2007-10-10 | HETZNER-AS - Hetzner Online GmbH, DE
+24940   | 2a01:4f8:252:4568:2::10                  | 2a01:4f8::/32       | DE | ripencc  | 2007-10-10 | HETZNER-AS - Hetzner Online GmbH, DE
+24940   | 2a01:4f9:c014:ec71::1                    | 2a01:4f9::/32       | DE | ripencc  | 2007-10-10 | HETZNER-AS - Hetzner Online GmbH, DE
+63949   | 2a01:7e00::f03c:93ff:fe41:c149           | 2a01:7e00::/32      | US | ripencc  | 2011-02-01 | AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+42372   | 2a01:d0:a580:2:6e6e:6d2d:636c:7562       | 2a01:d0:8000::/33   | GB | ripencc  | 2006-05-05 | DNETUA-AS - Netassist International EOOD, BG
+54113   | 2a04:4e42:200::775                       | 2a04:4e42:200::/48  | US | ripencc  | 2013-07-18 | FASTLY - Fastly, Inc., US
+54113   | 2a04:4e42:400::775                       | 2a04:4e42:400::/48  | US | ripencc  | 2013-07-18 | FASTLY - Fastly, Inc., US
+54113   | 2a04:4e42:600::775                       | 2a04:4e42:600::/48  | US | ripencc  | 2013-07-18 | FASTLY - Fastly, Inc., US
+54113   | 2a04:4e42::775                           | 2a04:4e42::/48      | US | ripencc  | 2013-07-18 | FASTLY - Fastly, Inc., US
+215828  | 2a0e:b107:27f9:1011::1                   | 2a0e:b107:27f9::/48 | CH | ripencc  | 2019-05-01 | TMW-Global-Networks - Tizian Maxime Weigt trading as _TMW Global Networks_, DE
+215828  | 2a0e:b107:27fe::3                        | 2a0e:b107:27fe::/48 | CH | ripencc  | 2019-05-01 | TMW-Global-Networks - Tizian Maxime Weigt trading as _TMW Global Networks_, DE
+215828  | 2a0e:b107:27fe::4                        | 2a0e:b107:27fe::/48 | CH | ripencc  | 2019-05-01 | TMW-Global-Networks - Tizian Maxime Weigt trading as _TMW Global Networks_, DE
+51202   | 2a14:6781:1:3f::2                        | 2a14:6781::/32      | DE | ripencc  | 2024-01-09 | NUXOA - NUXOA GmbH, DE
+9123    | 31.130.148.209   | 31.130.148.0/24     | RU | ripencc  | 2011-05-02 | TimeWeb-AS - JSC _TIMEWEB_, RU
+16509   | 3.113.125.41     | 3.112.0.0/14        | US | arin     | 2017-12-20 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 3.114.14.181     | 3.112.0.0/14        | US | arin     | 2017-12-20 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 3.175.115.57     | 3.175.112.0/21      | US | arin     | 2018-06-25 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 3.175.115.58     | 3.175.112.0/21      | US | arin     | 2018-06-25 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 3.175.115.59     | 3.175.112.0/21      | US | arin     | 2018-06-25 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 3.175.115.68     | 3.175.112.0/21      | US | arin     | 2018-06-25 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 3.33.130.190     | 3.33.128.0/20       | US | arin     | 2017-12-20 | AMAZON-02 - Amazon.com, Inc., US
+396982  | 34.159.77.229    | 34.159.0.0/17       | US | arin     | 2021-01-08 | GOOGLE-CLOUD-PLATFORM - Google LLC, US
+396982  | 34.168.176.109   | 34.168.128.0/17     | US | arin     | 2021-01-08 | GOOGLE-CLOUD-PLATFORM - Google LLC, US
+396982  | 34.175.197.58    | 34.175.128.0/17     | US | arin     | 2021-01-08 | GOOGLE-CLOUD-PLATFORM - Google LLC, US
+16509   | 34.250.27.149    | 34.248.0.0/13       | US | arin     | 2016-09-12 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 34.254.9.122     | 34.248.0.0/13       | US | arin     | 2016-09-12 | AMAZON-02 - Amazon.com, Inc., US
+396982  | 34.82.104.215    | 34.82.96.0/20       | US | arin     | 2018-09-28 | GOOGLE-CLOUD-PLATFORM - Google LLC, US
+396982  | 35.185.22.34     | 35.185.16.0/20      | US | arin     | 2016-10-11 | GOOGLE-CLOUD-PLATFORM - Google LLC, US
+15169   | 35.213.213.170   | 35.213.192.0/18     | US | arin     | 2017-09-29 | GOOGLE - Google LLC, US
+19527   | 35.213.213.170   | 35.213.192.0/18     | US | arin     | 2017-09-29 | GOOGLE-2 - Google LLC, US
+16509   | 35.76.144.139    | 35.72.0.0/13        | US | arin     | 2019-04-15 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 35.76.84.11      | 35.72.0.0/13        | US | arin     | 2019-04-15 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 35.79.252.63     | 35.72.0.0/13        | US | arin     | 2019-04-15 | AMAZON-02 - Amazon.com, Inc., US
+58061   | 37.1.207.149     | 37.1.200.0/21       | AE | ripencc  | 2011-12-13 | SCALAXY-AS - Scalaxy B.V., LV
+14618   | 3.81.254.172     | 3.80.0.0/12         | US | arin     | 2017-12-20 | AMAZON-AES - Amazon.com, Inc., US
+8075    | 40.114.4.103     | 40.112.0.0/13       | US | arin     | 2015-02-23 | MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+198610  | 45.130.41.122    | 45.130.41.0/24      | RU | ripencc  | 2019-07-17 | BEGET-AS - Beget LLC, RU
+16509   | 46.137.162.251   | 46.137.128.0/18     | IE | ripencc  | 2010-11-16 | AMAZON-02 - Amazon.com, Inc., US
+45102   | 47.79.20.161     | 47.79.16.0/21       | US | arin     | 2016-03-17 | ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., CN
+398101  | 50.63.8.49       | 50.63.8.0/22        | US | arin     | 2011-02-02 | GO-DADDY-COM-LLC - GoDaddy.com, LLC, US
+16276   | 51.38.52.116     | 51.38.0.0/16        | FR | ripencc  | 1993-09-01 | OVH - OVH SAS, FR
+16276   | 51.75.253.15     | 51.75.0.0/16        | FR | ripencc  | 1993-09-01 | OVH - OVH SAS, FR
+16276   | 51.89.125.62     | 51.89.0.0/16        | FR | ripencc  | 1993-09-01 | OVH - OVH SAS, FR
+16509   | 52.34.183.217    | 52.32.0.0/14        | US | arin     | 1991-12-19 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 52.34.219.63     | 52.32.0.0/14        | US | arin     | 1991-12-19 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 52.65.168.77     | 52.65.0.0/16        | US | arin     | 1991-12-19 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 52.69.158.223    | 52.68.0.0/15        | US | arin     | 1991-12-19 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 54.215.31.113    | 54.215.0.0/17       | US | arin     | 2014-10-23 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 54.250.140.73    | 54.250.128.0/18     | US | arin     | 2012-03-01 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 54.253.94.210    | 54.253.0.0/17       | US | arin     | 2012-03-01 | AMAZON-02 - Amazon.com, Inc., US
+198068  | 5.45.119.35      | 5.45.119.0/24       | EE | ripencc  | 2012-05-24 | PAGM-AS - P.A.G.M. OU, EE
+16509   | 54.65.228.207    | 54.64.0.0/15        | US | arin     | 2014-06-20 | AMAZON-02 - Amazon.com, Inc., US
+14618   | 54.85.87.184     | 54.84.0.0/15        | US | arin     | 2014-06-20 | AMAZON-AES - Amazon.com, Inc., US
+47447   | 62.113.234.3     | 62.113.192.0/18     | DE | ripencc  | 2009-04-15 | TTM - 23M GmbH, DE
+16509   | 63.34.187.143    | 63.32.0.0/14        | US | arin     | 2018-01-10 | AMAZON-02 - Amazon.com, Inc., US
+14415   | 64.209.142.159   | 64.209.142.0/24     | US | arin     | 2000-03-15 | HOSTCOLLECTIVE - Host Collective, Inc., US
+14061   | 64.225.10.143    | 64.225.0.0/20       | US | arin     | 2019-08-14 | DIGITALOCEAN-ASN - DigitalOcean, LLC, US
+46475   | 64.31.3.237      | 64.31.3.0/24        | US | arin     | 2010-12-27 | LIMESTONENETWORKS - Limestone Networks, Inc., US
+3561    | 64.70.19.170     | 64.70.0.0/18        | US | arin     | 2000-03-31 | CENTURYLINK-LEGACY-SAVVIS - CenturyLink Communications, LLC, US
+3561    | 64.70.19.203     | 64.70.0.0/18        | US | arin     | 2000-03-31 | CENTURYLINK-LEGACY-SAVVIS - CenturyLink Communications, LLC, US
+3561    | 64.70.19.34      | 64.70.0.0/18        | US | arin     | 2000-03-31 | CENTURYLINK-LEGACY-SAVVIS - CenturyLink Communications, LLC, US
+3561    | 64.70.78.32      | 64.70.64.0/19       | US | arin     | 2000-03-31 | CENTURYLINK-LEGACY-SAVVIS - CenturyLink Communications, LLC, US
+396982  | 67.199.248.12    | 67.199.248.0/24     | US | arin     | 2016-05-31 | GOOGLE-CLOUD-PLATFORM - Google LLC, US
+396982  | 67.199.248.13    | 67.199.248.0/24     | US | arin     | 2016-05-31 | GOOGLE-CLOUD-PLATFORM - Google LLC, US
+63949   | 74.207.241.245   | 74.207.240.0/20     | US | arin     | 2009-01-14 | AKAMAI-LINODE-AP - Akamai Connected Cloud, SG
+16509   | 75.2.120.88      | 75.2.112.0/20       | US | arin     | 2018-01-10 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 76.223.105.230   | 76.223.96.0/20      | US | arin     | 2018-01-10 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 76.223.54.146    | 76.223.48.0/20      | US | arin     | 2018-01-10 | AMAZON-02 - Amazon.com, Inc., US
+16509   | 76.76.21.21      | 76.76.21.0/24       | US | arin     | 2020-05-08 | AMAZON-02 - Amazon.com, Inc., US
+44112   | 77.222.62.59     | 77.222.62.0/23      | RU | ripencc  | 2007-04-05 | SWEB-AS - SpaceWeb Ltd, RU
+200107  | 77.74.177.56     | 77.74.177.0/24      | CH | ripencc  | 2007-04-24 | KL-EXT - Kaspersky Lab Switzerland GmbH, CH
+215828  | 77.90.25.150     | 77.90.25.0/24       | DE | ripencc  | 2007-04-13 | TMW-Global-Networks - Tizian Maxime Weigt trading as _TMW Global Networks_, DE
+24940   | 78.46.243.11     | 78.46.0.0/15        | DE | ripencc  | 2007-04-16 | HETZNER-AS - Hetzner Online GmbH, DE
+6848    | 84.195.91.189    | 84.192.0.0/13       | BE | ripencc  | 2004-04-21 | TELENET-AS - Telenet BV, BE
+31103   | 87.118.100.63    | 87.118.64.0/18      | DE | ripencc  | 2005-10-04 | KEYWEB-AS - Keyweb AG, DE
+50340   | 87.242.111.42    | 87.242.110.0/23     | RU | ripencc  | 2005-07-22 | SELECTEL-MSK - JSC Selectel, RU
+24940   | 88.99.161.88     | 88.99.0.0/16        | DE | ripencc  | 2005-08-03 | HETZNER-AS - Hetzner Online GmbH, DE
+197695  | 89.108.95.153    | 89.108.95.0/24      | RU | ripencc  | 2006-03-20 | AS-REGRU - _Domain names registrar REG.RU_, Ltd, RU
+57043   | 89.125.130.33    | 89.125.130.0/24     | AE | ripencc  | 2006-03-08 | HOSTKEY-AS - HOSTKEY B.V., NL
+197019  | 89.221.213.45    | 89.221.208.0/20     | CZ | ripencc  | 2006-10-11 | WEDOS - WEDOS Internet, a.s., CZ
+51202   | 89.36.32.132     | 89.36.32.0/24       | DE | ripencc  | 2005-11-29 | NUXOA - NUXOA GmbH, DE
+206264  | 89.42.231.152    | 89.42.231.0/24      | SC | ripencc  | 2005-11-29 | AMARUTU-TECHNOLOGY - Amarutu Technology Ltd, SC
+51520   | 91.194.2.86      | 91.194.2.0/23       | RU | ripencc  | 2007-05-14 | RH - _Datalogika_ Ltd., RU
+204436  | 91.197.228.81    | 91.197.228.0/22     | GB | ripencc  | 2007-09-18 | KUALO-AS - Kualo Limited, GB
+210079  | 91.201.40.181    | 91.201.40.0/22      | RU | ripencc  | 2007-11-20 | EUROBYTE - EuroByte LLC, RU
+21499   | 92.205.213.216   | 92.205.208.0/21     | DE | ripencc  | 2007-10-17 | GODADDY-SXB - Host Europe GmbH, DE
+12555   | 93.189.147.78    | 93.189.147.0/24     | RU | ripencc  | 2008-05-02 | IMAQLIQ - Data-center IMAQLIQ Ltd., RU
+24940   | 94.130.181.15    | 94.130.0.0/16       | DE | ripencc  | 2008-06-23 | HETZNER-AS - Hetzner Online GmbH, DE
+24940   | 94.130.200.163   | 94.130.0.0/16       | DE | ripencc  | 2008-06-23 | HETZNER-AS - Hetzner Online GmbH, DE
+43513   | 94.140.115.22    | 94.140.114.0/23     | LV | ripencc  | 2008-12-03 | NANO-AS - Sia Nano IT, LV
+197695  | 95.163.244.136   | 95.163.244.0/24     | RU | ripencc  | 2008-12-30 | AS-REGRU - _Domain names registrar REG.RU_, Ltd, RU
+32475   | 99.198.113.66    | 99.198.112.0/21     | US | arin     | 2008-08-14 | SINGLEHOP-LLC - Internap Holding LLC, US
+16509   | 99.83.235.193    | 99.83.224.0/20      | US | arin     | 2018-01-10 | AMAZON-02 - Amazon.com, Inc., US
