@@ -129,7 +129,7 @@ dig example.com
 
 This queries DNS and returns information about the domain.
 
-Later chapters use `dig` extensively to identify:
+Later exercises use `dig` extensively to identify:
 
 * IPv4 addresses
 * IPv6 addresses
@@ -186,7 +186,7 @@ Example:
 curl https://example.com/data.json | jq
 ```
 
-Later chapters use `jq` to process:
+Later exercises use `jq` to process:
 
 * Certificate Transparency logs
 * JSON APIs
@@ -457,8 +457,5 @@ The following chapter explains:
 * How to download it
 * How to inspect the contents
 
-Continue to:
+Continue to [03-download-cloudflare-data.md](03-download-cloudflare-data.md)
 
-```text
-docs/03-download-cloudflare-data.md
-```
