@@ -474,8 +474,5 @@ Results should therefore be interpreted carefully and supported by multiple sour
 The next chapter explains the software packages used throughout this repository and provides installation instructions for Ubuntu.
 
 
-Continue to:
+Continue to: [02-prerequisites.md](02-prerequisites.md)
 
-```text
-docs/02-prerequisites.md
-```
