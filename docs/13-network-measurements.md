@@ -17,8 +17,6 @@ Network path measurements help answer questions such as:
 
 One of the most widely used tools for this purpose is MTR (My Traceroute).
 
----
-
 ## What is MTR?
 
 MTR combines the functionality of:
@@ -36,21 +34,12 @@ This provides a more reliable view of:
 - Jitter
 - End-to-end path characteristics
 
----
-
 ## Installing MTR
 
 ### Ubuntu/Debian
 
 ```bash
-sudo apt update
-sudo apt install mtr
-```
-
-### RHEL/CentOS/Rocky Linux
-
-```bash
-sudo dnf install mtr
+sudo apt update && sudo apt install mtr
 ```
 
 ### macOS
@@ -59,7 +48,9 @@ sudo dnf install mtr
 brew install mtr
 ```
 
----
+**NOTE:** The Mac OS will require escalated privileges to run mtr command. To bypass this refer to 
+
+[https://blog.dave-bell.co.uk/2020/01/06/using-mtr-on-os-x-without-sudo/](https://blog.dave-bell.co.uk/2020/01/06/using-mtr-on-os-x-without-sudo/)
 
 ## Understanding the Results
 
@@ -91,7 +82,6 @@ Destination 0% loss
 
 In this case, the router at Hop 5 is likely rate-limiting responses rather than dropping traffic.
 
----
 
 ## Preferred Interactive Commands
 
@@ -159,7 +149,6 @@ mtr -wztn example.com
 
 because raw IP addresses combined with ASN information are often easier to verify using WHOIS, PeeringDB, and routing databases.
 
----
 
 ## Report Mode
 
@@ -192,7 +181,6 @@ This is ideal for:
 - Repeatable measurements
 - Evidence collection
 
----
 
 ## Measuring Real Web Traffic
 
@@ -211,7 +199,6 @@ Useful for:
 - CDNs
 - Cloud-hosted applications
 
----
 
 ## IPv4 and IPv6 Testing
 
@@ -228,8 +215,6 @@ mtr -6 example.com
 ```
 
 IPv4 and IPv6 frequently follow different paths and may use different transit providers or CDN locations.
-
----
 
 ## Applying MTR to ccTLD Analysis
 
@@ -252,7 +237,6 @@ Example:
 | businessregistries.gov.ws | AS16509 | 90 ms | 10 | Offshore |
 | samoaobserver.ws | AS13335 | 65 ms | 8 | Cloudflare CDN |
 
----
 
 ## Supporting Evidence for SamIXP Research
 
@@ -266,7 +250,6 @@ MTR measurements can help determine:
 
 When combined with DNS, ASN, CDN, and hosting analysis, MTR provides a practical view of how users actually reach online services.
 
----
 
 ## Limitations
 
@@ -313,3 +296,4 @@ Where possible, collect measurements from:
 - https://github.com/traviscross/mtr
 - https://atlas.ripe.net/
 - https://www.caida.org/projects/ark/
+- https://blog.dave-bell.co.uk/2020/01/06/using-mtr-on-os-x-without-sudo/
