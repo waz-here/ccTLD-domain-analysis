@@ -301,10 +301,23 @@ curl \
 whois
 ```
 
+On macOS, most of these tools are preinstalled. Only `jq` (and optionally `wget`) need [Homebrew](https://brew.sh):
+
+```bash
+brew install jq wget
+```
+
 Download the Cloudflare Radar dataset:
 
 ```bash
 wget \
+"https://radar.cloudflare.com/charts/LargerTopDomainsTable/attachment?id=1257&top=1000000"
+```
+
+On macOS (or anywhere without `wget`), use `curl` instead:
+
+```bash
+curl -L -o cloudflare-radar_top-1000000-domains.csv \
 "https://radar.cloudflare.com/charts/LargerTopDomainsTable/attachment?id=1257&top=1000000"
 ```
 
