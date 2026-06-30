@@ -6,8 +6,9 @@ This guide has been tested on:
 
 * Ubuntu 22.04 LTS
 * Ubuntu 24.04 LTS
+* macOS (Apple Silicon and Intel)
 
-Most commands will also work on other Linux distributions, but only Ubuntu is covered in this repository.
+Most commands will also work on other Linux distributions. Both Ubuntu and macOS are covered below.
 
 
 
@@ -106,6 +107,31 @@ Example output:
 The following NEW packages will be installed:
 dnsutils whois curl jq wget netcat-openbsd
 ```
+
+
+
+# Installing on macOS
+
+macOS already ships with most of the tools used in this repository. `dig`, `whois`, `curl`, `nc`, `awk`, `sort`, `uniq`, and `wc` are all preinstalled, so the core analysis scripts run without any additional setup.
+
+Only two optional tools need to be installed, both through [Homebrew](https://brew.sh):
+
+```bash
+brew install jq wget
+```
+
+| Tool | Needed for                                                          |
+| ---- | ------------------------------------------------------------------- |
+| jq   | JSON processing in the subdomain and Certificate Transparency steps |
+| wget | The dataset download command as written (`curl` also works)         |
+
+If Homebrew is not already installed:
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+macOS has no `apt`. Skip the `sudo apt` commands above and use the Homebrew command instead. The verification steps that follow are identical on both systems.
 
 
 
@@ -390,6 +416,12 @@ Solution:
 sudo apt install dnsutils
 ```
 
+On macOS, install the missing tool with Homebrew, for example:
+
+```bash
+brew install jq
+```
+
 
 
 ## Permission Denied
@@ -426,7 +458,13 @@ Check:
 resolvectl status
 ```
 
-This displays:
+On macOS, use:
+
+```bash
+scutil --dns
+```
+
+These display:
 
 * DNS servers
 * Resolver configuration
